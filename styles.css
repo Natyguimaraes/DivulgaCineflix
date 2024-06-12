@@ -1,0 +1,48 @@
+.fs-4 {
+    color: white;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.carousel-item {
+border: 10px solid rgba(255, 255, 255, 0.11);
+border-radius: 10px;
+}
+
+#contato {
+    background-color: black;
+    border: 1px solid;
+    border-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    max-width: 700px;
+}
+#contato .input-group-text {
+    background-color: #00000000;
+    color: white;
+}
+#contato .form-control {
+    border-radius: 0 5px 5px 0;
+    background-color: rgba(255, 255, 255, 0.082);
+}
+#contato button {
+    width: 100px;
+    margin: 5px;
+}
+#contato button[type="submit"] {
+    background-color: #007bff;
+    color: white;
+}
+#contato button[type="reset"] {
+    background-color: #6c757d;
+    color: white;
+}
+
+#precos .card {
+    max-width: none;
+}
