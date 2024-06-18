@@ -3,7 +3,6 @@ body {
   color: white;
 }
 
-
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -85,16 +84,16 @@ body {
   /* Meu código */
 
   .nav-link {
-    color: #000000;
+    color: #ffffff;
     font-size: large;
     text-transform: uppercase;
     font-weight: bold;
-  }
+}
 
   @media (max-width: 980px) {
 
     .nav-link {
-        color: #000000;
+        color: #ffffff;
         font-size: 10px;
         text-transform: uppercase;
         
